@@ -1,11 +1,12 @@
 
   # Readme Generator
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/Readme Generator)
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+
   ## Description
 
   This is a README.md file generator which creates a README.md file by taking users inputs on each question he or she answers. This app uses a template so that a user can use this README generator app to create a README.md file for any project he or she is working on. This project has taught me how to use node and import different modules and manipulate them to create this amazing project.
 
-  #Table of Contents
+  # Table of Contents
 
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -20,7 +21,7 @@
   This application is used for: This app is used for creating a README.md file for any project.
 
   # License
-  [https://choosealicense.com/](https://choosealicense.com/)
+  This project is licensed under the MIT license.
 
   # Contributor
   Contributor: YUNIK SUNG
@@ -30,5 +31,5 @@
   To run the test, please put the following command in your terminal: node index.js
 
   # Questions
-  If you have any questions about the repo, open an issue or contact YUNIK SUNG directly undefined.
+  If you have any questions about the repo, open an issue or contact YUNIK SUNG directly yuniksung@gmail.com.
   
