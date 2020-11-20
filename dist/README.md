@@ -4,7 +4,7 @@
 
   ## Description
 
-  This is a README.md file generator which creates a README.md file by taking users inputs on each question he or she answers. This app uses a template so that a user can use this README generator app to create a README.md file for any project he or she is working on. This project has taught me how to use node and import different modules and manipulate them to create this amazing project.
+    This is a README.md file generator which creates a README.md file by taking users inputs on each question he or she answers. This app uses a template so that a user can use this README generator app to create a README.md file for any project he or she is working on. This project has taught me how to use node and import different modules and manipulate them to create this amazing project.
 
   # Table of Contents
 
@@ -18,7 +18,7 @@
   Download the code repository, open your terminal and navigate to the downloaded repository then type the following command and and hit enter : npm install
 
   # Usage
-  This application is used for: This application is used for: This app is used for creating a README.md file for any project.
+  This application is used for:   This application is used for: This application is used for: This app is used for creating a README.md file for any project.
 
   # License
   This project is licensed under the MIT license.
@@ -33,5 +33,6 @@
   # Questions
   If you have any questions about the repo, open an issue or contact Yunik Sung directly yuniksung@gmail.com.
 
-  ![The readme generator in use](/readme-generator.gif)
+  [![Tutorial](capture.jpg)](https://www.youtube.com/watch?v=Lw-i2lfHGhE)
+
   

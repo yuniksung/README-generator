@@ -35,7 +35,8 @@ function generateMarkdown(data) {
   # Questions
   If you have any questions about the repo, open an issue or contact ${data.Contributor} directly ${data.Email}.
 
-  ![The readme generator in use](/readme-generator.gif)
+  [![Tutorial](capture.jpg)](https://www.youtube.com/watch?v=Lw-i2lfHGhE)
+
   `;
 }
 

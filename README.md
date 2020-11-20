@@ -31,7 +31,4 @@
   To run the test, please put the following command in your terminal: node index.js
 
   # Questions
-  If you have any questions about the repo, open an issue or contact Yunik Sung directly yuniksung@gmail.com.
-
-  ![The readme generator in use](/readme-generator.gif)
-  
+  If you have any questions about the repo, open an issue or contact Yunik Sung directly yuniksung@gmail.com.  
