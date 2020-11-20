@@ -4,7 +4,7 @@
 
   ## Description
 
-    This is a README.md file generator which creates a README.md file by taking users inputs on each question he or she answers. This app uses a template so that a user can use this README generator app to create a README.md file for any project he or she is working on. This project has taught me how to use node and import different modules and manipulate them to create this amazing project.
+This is a README.md file generator which creates a README.md file by taking users inputs on each question he or she answers. This app uses a template so that a user can use this README generator app to create a README.md file for any project he or she is working on. This project has taught me how to use node and import different modules and manipulate them to create this amazing project.
 
   # Table of Contents
 
