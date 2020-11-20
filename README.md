@@ -68,5 +68,5 @@
   # Questions
   If you have any questions about the repo, open an issue or contact Yunik Sung directly yuniksung@gmail.com.
 
-[![Toturial](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Lw-i2lfHGhE)
+[![Toturial](https://www.gettingsmart.com/wp-content/uploads/2017/06/Program-Code-Feature-Image.jpg)](https://www.youtube.com/watch?v=Lw-i2lfHGhE)
     
