@@ -74,6 +74,7 @@ function writeToFile(fileName, data) {
     if (err) {
       throw err;
     }
+    
   })
 };
 
@@ -82,6 +83,6 @@ const init = () => inquirer.prompt(questions)
 
 // function call to initialize program
 init()
-.then((data) => writeToFile("README.md", data))
+.then((data) => writeToFile("./dist/README.md", data))
 .then(() => console.log("Success!"))
 .catch((err) => console.log(err));

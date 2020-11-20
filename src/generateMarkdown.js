@@ -2,7 +2,8 @@
 function generateMarkdown(data) {
   return `
   # ${data.Title}
-  # Description
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/${data.UserName}/${data.Title})
+  ## Description
 
   ${data.Description}
 
@@ -20,17 +21,18 @@ function generateMarkdown(data) {
   # Usage
   This application is used for: ${data.Usage}
 
+  # License
+  [https://choosealicense.com/](https://choosealicense.com/)
+
   # Contributor
   Contributor: ${data.Contributor}
-
-  # License
-  ${data.License}
+  Emain Address: ${data.email}
 
   # Test
   To run the test, please put the following command in your terminal: ${data.Test}
 
-  ## Questions
-  If you have any questions or issues, please contact me at ${data.email}. You can find more information of my work at https://github.com/${data.github}.
+  # Questions
+  If you have any questions about the repo, open an issue or contact ${data.Contributor} directly ${data.Email}.
   `;
 }
 
