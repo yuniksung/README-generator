@@ -33,6 +33,6 @@
   # Questions
   If you have any questions about the repo, open an issue or contact Yunik Sung directly yuniksung@gmail.com.
 
-  [![Tutorial]](https://www.youtube.com/watch?v=Lw-i2lfHGhE)
+  [Tutorial](https://www.youtube.com/watch?v=Lw-i2lfHGhE)
 
   
